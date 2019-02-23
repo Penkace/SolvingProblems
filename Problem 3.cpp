@@ -1,3 +1,9 @@
+/*********************************
+	>File Name: Application of Dijkstra Algorithm
+	>Author: PengKai
+	>Date: 2019-02-23 Saturday 20:44 
+*********************************/
+
 #include<iostream>
 #include<stdio.h>
 #include<cstring>
