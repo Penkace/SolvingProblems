@@ -1,3 +1,9 @@
+/*********************************
+	>File Name: Application of Bellman-Ford Algorithm with Adjacency Table
+	>Author: PengKai
+	>Date: 2019-02-23 Saturday 21:47 
+*********************************/
+
 #include<iostream>
 #include<stdio.h>
 #include<cstring>
