@@ -9,3 +9,5 @@ The repository contains codes solving some specific problems from books with my 
 **Problem 3:** 选自《啊哈！算法》第六章第二节 单源最短路
 <br>
 **Problem 5:** 选自《啊哈！算法》第六章第三节 解决负权边
+<br>
+**Problem 6:** 选自POJ1426 Find The Multiple
