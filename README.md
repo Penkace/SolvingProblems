@@ -11,3 +11,5 @@ The repository contains codes solving some specific problems from books with my 
 **Problem 5:** 选自《啊哈！算法》第六章第三节 解决负权边
 <br>
 **Problem 6:** 选自POJ1426 Find The Multiple
+<br>
+**Problem 7:** 选自POJ3126 Prime Path
