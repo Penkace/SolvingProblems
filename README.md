@@ -13,3 +13,5 @@ The repository contains codes solving some specific problems from books with my 
 **Problem 6:** 选自POJ1426 Find The Multiple
 <br>
 **Problem 7:** 选自POJ3126 Prime Path
+<br>
+**Problem 8:** 选自POJ3984 迷宫问题
