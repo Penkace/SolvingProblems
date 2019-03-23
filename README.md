@@ -19,3 +19,7 @@ The repository contains codes solving some specific problems from books with my 
 **Problem 9:** 选自UVA11624 Fire!
 <br>
 **Problem 10:** 选自POJ1321 棋盘问题
+<br>
+**Problem 12:** 选自POJ2251 Dungeon Master
+<br>
+**Problem 13:** 选自POJ3278 Catch That Cow
