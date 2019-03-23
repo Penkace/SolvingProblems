@@ -17,3 +17,5 @@ The repository contains codes solving some specific problems from books with my 
 **Problem 8:** 选自POJ3984 迷宫问题
 <br>
 **Problem 9:** 选自UVA11624 Fire!
+<br>
+**Problem 10:** 选自POJ1321 棋盘问题
